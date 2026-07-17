@@ -12,6 +12,8 @@ The preview images are the actual public skin artwork. This repository does not 
 
 Website: https://codex-theme-gallery.howardhua.chatgpt.site
 
+Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
+
 ![Codex Skin Gallery](assets/og.jpg)
 
 ## Packs
