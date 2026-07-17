@@ -1,0 +1,7 @@
+codex
+codex-theme
+codex-skin
+ai-coding
+theme
+wallpaper
+openai-codex
