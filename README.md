@@ -1,14 +1,18 @@
 # Codex Skin Packs
 
-Free public-safe skin packs for Codex workspaces.
+Verified public-safe skin packs for Codex workspaces.
 
 Each pack includes:
 
 - `background.png`
 - `theme.json`
 - `README.md`
+- restore guidance
 
-The preview images are the actual public skin artwork. This repository does not include private Codex workspace screenshots, task lists, chats, sidebars, or project files.
+The gallery shows sanitized Codex Home, Task, Diff, and Composer states so you
+can judge readability before applying a pack. This repository does not include
+private Codex workspace screenshots, task lists, chats, sidebars, file paths, or
+project files.
 
 Website: https://codex-theme-gallery.howardhua.chatgpt.site
 
@@ -63,11 +67,18 @@ Soft low-strain fortune skin.
 
 ## Usage
 
-Download a pack folder, keep `theme.json` and `background.png` together, then use the theme JSON in your Codex Dream Skin workflow.
+Download a pack folder, keep `theme.json` and `background.png` together, then
+use the theme JSON in your Codex Dream Skin workflow.
+
+You can also copy the install prompt from the website and ask Codex to apply the
+pack, verify Home / Task / Diff / Composer readability, and explain how to
+restore the default appearance.
 
 ## Why public-safe?
 
-Codex theme screenshots can accidentally expose private project names, chats, task lists, and file paths. These packs ship only the public artwork and reproducible theme files.
+Codex theme screenshots can accidentally expose private project names, chats,
+task lists, and file paths. These packs ship only public artwork, reproducible
+theme files, and sanitized demo previews.
 
 ## License
 
