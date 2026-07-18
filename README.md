@@ -14,6 +14,13 @@ Website: https://codex-theme-gallery.howardhua.chatgpt.site
 
 Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
+Published on CodexThemes:
+
+- [Global Founder Bright](https://codexthemes.ai/themes/global-founder-bright)
+- [Caishen Lite](https://codexthemes.ai/themes/caishen-lite)
+- [Export Night](https://codexthemes.ai/themes/export-night)
+- [Mythic Guardian Noir](https://codexthemes.ai/skins/mythic-guardian-noir)
+
 ![Codex Skin Gallery](assets/og.jpg)
 
 ## Packs
