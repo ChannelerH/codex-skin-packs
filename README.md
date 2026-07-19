@@ -18,6 +18,8 @@ Website: https://codex-theme-gallery.howardhua.chatgpt.site
 
 Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
+Safety checklist: [SAFETY.md](SAFETY.md)
+
 Published on CodexThemes:
 
 - [Global Founder Bright](https://codexthemes.ai/themes/global-founder-bright)
