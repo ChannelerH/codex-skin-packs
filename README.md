@@ -22,11 +22,8 @@ Safety checklist: [SAFETY.md](SAFETY.md)
 
 Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
 
-Published on CodexThemes:
+External listings:
 
-- [Global Founder Bright](https://codexthemes.ai/themes/global-founder-bright)
-- [Caishen Lite](https://codexthemes.ai/themes/caishen-lite)
-- [Export Night](https://codexthemes.ai/themes/export-night)
 - [Mythic Guardian Noir](https://codexthemes.ai/skins/mythic-guardian-noir)
 
 ![Codex Skin Gallery](assets/og.jpg)
