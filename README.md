@@ -20,6 +20,8 @@ Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v
 
 Safety checklist: [SAFETY.md](SAFETY.md)
 
+Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
+
 Published on CodexThemes:
 
 - [Global Founder Bright](https://codexthemes.ai/themes/global-founder-bright)
