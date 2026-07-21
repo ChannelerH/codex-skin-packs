@@ -51,7 +51,7 @@ For directory maintainers:
 - Real release zips are available in [v0.1.0](https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0).
 - The installer is available through Skills.sh / `npx skills` and the Codex plugin workflow.
 - Public previews use sanitized Codex states, not private workspace screenshots.
-- `.codexskin` compatibility is not claimed yet; the gap and conversion path are tracked in [COMPATIBILITY.md](COMPATIBILITY.md).
+- `.codexskin` compatibility is not claimed yet; the `caishen-readable` draft source and remaining preview gap are tracked in [COMPATIBILITY.md](COMPATIBILITY.md).
 
 Skills.sh listing:
 https://www.skills.sh/channelerh/codex-skin-packs/codex-skin-pack-installer

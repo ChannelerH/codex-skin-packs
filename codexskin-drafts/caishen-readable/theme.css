@@ -1,0 +1,129 @@
+/* Caishen Readable — public-safe, light-first Codex skin.
+   All selectors stay under html.codex-theme-studio for one-class reversal. */
+
+html.codex-theme-studio {
+  color-scheme: light !important;
+}
+
+html.codex-theme-studio[data-cts-shell="dark"] {
+  color-scheme: dark !important;
+}
+
+html.codex-theme-studio :focus-visible {
+  outline-color: var(--cts-color-jade) !important;
+}
+
+html.codex-theme-studio ::selection {
+  background: rgba(42, 168, 118, .24) !important;
+  color: var(--cts-color-ink) !important;
+}
+
+html.codex-theme-studio body,
+html.codex-theme-studio .app-theme {
+  background:
+    linear-gradient(90deg, rgba(255, 248, 239, .96) 0%, rgba(255, 248, 239, .88) 48%, rgba(255, 248, 239, .68) 100%),
+    var(--cts-asset-wall) right bottom / cover no-repeat fixed,
+    var(--cts-color-paper) !important;
+  color: var(--cts-color-ink) !important;
+}
+
+html.codex-theme-studio .app-theme,
+html.codex-theme-studio [role="main"] [class~="bg-token-main-surface-primary"] {
+  background-color: transparent !important;
+}
+
+html.codex-theme-studio main.main-surface,
+html.codex-theme-studio div.main-surface {
+  isolation: isolate;
+  position: relative !important;
+  background:
+    linear-gradient(90deg, rgba(255, 248, 239, .94) 0%, rgba(255, 248, 239, .84) 52%, rgba(255, 248, 239, .58) 100%),
+    var(--cts-asset-wall) right bottom / cover no-repeat,
+    var(--cts-color-paper) !important;
+  color: var(--cts-color-ink) !important;
+}
+
+html.codex-theme-studio main.main-surface::after,
+html.codex-theme-studio div.main-surface::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 42%;
+  pointer-events: none;
+  background: linear-gradient(180deg, rgba(255, 248, 239, 0), rgba(255, 248, 239, .62));
+  z-index: -1;
+}
+
+html.codex-theme-studio .app-shell-left-panel {
+  isolation: isolate;
+  position: relative !important;
+  background:
+    linear-gradient(180deg, rgba(255, 253, 250, .98), rgba(255, 248, 239, .94)),
+    var(--cts-asset-wall) 10% bottom / auto 100% no-repeat,
+    var(--cts-color-paper-strong) !important;
+  border-right: 1px solid var(--cts-color-line) !important;
+  box-shadow: inset -1px 0 0 rgba(255, 255, 255, .7) !important;
+  color: var(--cts-color-ink) !important;
+}
+
+html.codex-theme-studio .app-shell-left-panel :is(nav, header, footer, div) {
+  background-color: transparent !important;
+}
+
+html.codex-theme-studio .app-shell-left-panel :is(button, a, span, p, h1, h2, h3, label, div) {
+  color: var(--cts-color-ink) !important;
+}
+
+html.codex-theme-studio .app-shell-left-panel button:hover,
+html.codex-theme-studio .app-shell-left-panel a:hover {
+  background: linear-gradient(90deg, rgba(217, 107, 66, .14), rgba(232, 184, 102, .08)) !important;
+  box-shadow: inset 2px 0 0 var(--cts-color-cinnabar) !important;
+}
+
+html.codex-theme-studio .app-shell-left-panel [aria-current="page"],
+html.codex-theme-studio .app-shell-left-panel [class~="bg-token-list-hover-background"] {
+  background: linear-gradient(90deg, rgba(217, 107, 66, .18), rgba(232, 184, 102, .10)) !important;
+  box-shadow: inset 3px 0 0 var(--cts-color-cinnabar) !important;
+  border-radius: 8px !important;
+}
+
+html.codex-theme-studio .app-shell-left-panel :is(input, [role="searchbox"]) {
+  background: rgba(255, 253, 250, .88) !important;
+  border: 1px solid var(--cts-color-line) !important;
+  border-radius: 8px !important;
+  color: var(--cts-color-ink) !important;
+  caret-color: var(--cts-color-cinnabar) !important;
+}
+
+html.codex-theme-studio .app-shell-left-panel input::placeholder {
+  color: rgba(124, 98, 83, .62) !important;
+}
+
+html.codex-theme-studio :is(textarea, input, [contenteditable="true"]) {
+  color: var(--cts-color-ink) !important;
+  caret-color: var(--cts-color-cinnabar) !important;
+}
+
+html.codex-theme-studio :is([data-testid*="composer"], form, textarea) {
+  --tw-ring-color: rgba(217, 107, 66, .18) !important;
+}
+
+html.codex-theme-studio [data-cts-composer-overflow="shell"] {
+  background: rgba(255, 253, 250, .94) !important;
+  border: 1px solid rgba(217, 107, 66, .16) !important;
+  box-shadow: 0 18px 46px rgba(126, 74, 39, .13) !important;
+  backdrop-filter: blur(10px);
+}
+
+html.codex-theme-studio :is(button, [role="button"]) {
+  border-color: rgba(217, 107, 66, .14) !important;
+}
+
+html.codex-theme-studio :is(code, pre) {
+  background-color: rgba(255, 253, 250, .88) !important;
+  color: #2f261f !important;
+}
+
+html.codex-theme-studio [class*="text-token-text-secondary"] {
+  color: var(--cts-color-muted) !important;
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "id": "caishen-readable",
+  "name": "Caishen Readable",
+  "description": "A soft fortune-themed Codex skin that keeps the working area bright, readable, and public-safe.",
+  "version": "0.2.0",
+  "author": {
+    "name": "ChannelerH",
+    "url": "https://github.com/ChannelerH/codex-skin-packs"
+  },
+  "codexVerified": "26.715.61943",
+  "appearance": "dual",
+  "license": "MIT",
+  "category": "guofeng",
+  "tags": [
+    "caishen",
+    "fortune",
+    "readable",
+    "light"
+  ],
+  "colors": {
+    "paper": "#fff8ef",
+    "paper-strong": "#fffdfa",
+    "peach": "#f7d8c4",
+    "gold": "#e8b866",
+    "cinnabar": "#d96b42",
+    "jade": "#2aa876",
+    "ink": "#35251c",
+    "muted": "#7c6253",
+    "line": "rgba(217, 107, 66, .20)"
+  },
+  "strings": {
+    "hero-title": "SHIP GOOD THINGS",
+    "hero-sub": "Soft fortune, clear code."
+  },
+  "assets": {
+    "wall": "assets/wall.webp"
+  },
+  "css": "theme.css",
+  "codexTheme": {
+    "appearanceTheme": "light",
+    "codeThemeIds": {
+      "dark": "absolutely",
+      "light": "absolutely"
+    },
+    "light": {
+      "accent": "#d96b42",
+      "contrast": 60,
+      "ink": "#35251c",
+      "opaqueWindows": true,
+      "surface": "#fff8ef",
+      "fonts": {
+        "code": "SF Mono",
+        "ui": "Avenir Next, SF Pro Text"
+      },
+      "semanticColors": {
+        "diffAdded": "#2f8f63",
+        "diffRemoved": "#c85a42",
+        "skill": "#b77b24"
+      }
+    },
+    "dark": {
+      "accent": "#e8b866",
+      "contrast": 60,
+      "ink": "#fff8ef",
+      "opaqueWindows": true,
+      "surface": "#241612",
+      "fonts": {
+        "code": "SF Mono",
+        "ui": "Avenir Next, SF Pro Text"
+      },
+      "semanticColors": {
+        "diffAdded": "#70c395",
+        "diffRemoved": "#e07b62",
+        "skill": "#e8b866"
+      }
+    }
+  }
+}

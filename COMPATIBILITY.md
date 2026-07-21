@@ -44,7 +44,7 @@ https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 | Skills.sh / npx skills | Supported by `skills.sh.json` and `skills/codex-skin-pack-installer/SKILL.md`. |
 | Codex plugin marketplace workflow | Supported by `.agents/plugins/marketplace.json` and `plugins/codex-skin-pack-installer/`. |
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
-| `.codexskin` registries | Not claimed as fully compatible yet. See the gap below. |
+| `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. |
 
 ## `.codexskin` Gap
 
@@ -63,10 +63,12 @@ We do not want to submit fake previews or private workspace screenshots. The
 conversion path is:
 
 1. Convert one pilot pack, starting with `caishen-readable`, into a source
-   folder that matches the `.codexskin` layout.
-2. Generate WebP assets from public artwork only.
+   folder that matches the `.codexskin` layout. Draft:
+   [`codexskin-drafts/caishen-readable`](codexskin-drafts/caishen-readable).
+2. Generate WebP assets from public artwork only. Done for the pilot draft.
 3. Capture a sanitized real Codex preview with collapsed/private-free content.
-4. Run the target registry's quality gate before opening a PR.
+4. Run the target registry's quality gate before opening a PR. Current expected
+   failure: missing `previews/home.webp`.
 5. Repeat only for packs that remain readable in Home, Task, Diff, and Composer
    states.
 
