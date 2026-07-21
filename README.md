@@ -1,5 +1,7 @@
 # Codex Skin Packs
 
+[![skills.sh](https://skills.sh/b/channelerh/codex-skin-packs)](https://www.skills.sh/channelerh/codex-skin-packs/codex-skin-pack-installer)
+
 Verified public-safe Codex theme and skin packs, packaged as a Codex plugin and
 a standalone Skills.sh / `npx skills` installer.
 
