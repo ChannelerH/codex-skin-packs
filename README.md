@@ -30,6 +30,18 @@ Safety checklist: [SAFETY.md](SAFETY.md)
 
 Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
 
+Install as a Codex Skill:
+
+```bash
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo ChannelerH/codex-skin-packs --path codex-skin-pack-installer --name codex-skin-pack-installer
+```
+
+Then ask Codex:
+
+```text
+Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+```
+
 Machine-readable theme feed:
 https://codex-theme-gallery.howardhua.chatgpt.site/theme-feed.json
 
