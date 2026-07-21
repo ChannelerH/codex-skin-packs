@@ -46,6 +46,9 @@ Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
 
 Compatibility / directory notes: [COMPATIBILITY.md](COMPATIBILITY.md)
 
+Codex Dream Skin alternatives guide:
+[docs/codex-dream-skin-alternatives.md](docs/codex-dream-skin-alternatives.md)
+
 For directory maintainers:
 
 - Real release zips are available in [v0.1.0](https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0).
