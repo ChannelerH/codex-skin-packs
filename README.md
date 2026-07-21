@@ -46,7 +46,10 @@ Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
 
 Compatibility / directory notes: [COMPATIBILITY.md](COMPATIBILITY.md)
 
-Codex Dream Skin alternatives guide:
+Codex Dream Skin alternatives:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-dream-skin-alternatives?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-dream-skin-alternatives
+
+GitHub alternatives guide:
 [docs/codex-dream-skin-alternatives.md](docs/codex-dream-skin-alternatives.md)
 
 For directory maintainers:
