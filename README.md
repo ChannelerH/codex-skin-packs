@@ -16,11 +16,19 @@ project files.
 
 Website: https://codex-theme-gallery.howardhua.chatgpt.site
 
+Theme index: https://codex-theme-gallery.howardhua.chatgpt.site/themes
+
 Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
 Safety checklist: [SAFETY.md](SAFETY.md)
 
 Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
+
+Machine-readable theme feed:
+https://codex-theme-gallery.howardhua.chatgpt.site/theme-feed.json
+
+Launch / directory submission kit:
+https://codex-theme-gallery.howardhua.chatgpt.site/launch-kit.md
 
 External listings:
 
@@ -34,11 +42,15 @@ External listings:
 
 Dark mythic focus skin with a quiet left side for readable Codex panels.
 
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/mythic-guardian-noir
+
 ![Mythic Guardian Noir](packs/mythic-guardian-noir/background.png)
 
 ### Global Founder Bright
 
 Bright overseas growth skin for shipping, analytics, and business work.
+
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/global-founder-bright
 
 ![Global Founder Bright](packs/global-founder-bright/background.png)
 
@@ -46,11 +58,15 @@ Bright overseas growth skin for shipping, analytics, and business work.
 
 Soft fortune skin that keeps the main working area calm and readable.
 
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-lite
+
 ![Caishen Lite](packs/caishen-lite/background.png)
 
 ### Caishen Max
 
 More fortune, more gold, more visual punch for short immersive sessions.
+
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-max
 
 ![Caishen Max](packs/caishen-max/background.png)
 
@@ -58,11 +74,15 @@ More fortune, more gold, more visual punch for short immersive sessions.
 
 Dark export-ops skin with charts, ports, and midnight commerce energy.
 
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/export-night
+
 ![Export Night](packs/export-night/background.png)
 
 ### Caishen Readable
 
 Soft low-strain fortune skin.
+
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable
 
 ![Caishen Readable](packs/caishen-readable/background.png)
 
