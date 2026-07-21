@@ -20,6 +20,9 @@ project files.
 Start here:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=skill-installer
 
+Codex Theme Skill page:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-skill?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-theme-skill
+
 Website:
 https://codex-theme-gallery.howardhua.chatgpt.site?utm_source=github-readme&utm_medium=repo&utm_campaign=homepage
 
