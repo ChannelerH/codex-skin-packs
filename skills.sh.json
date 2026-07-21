@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Codex Themes",
+      "description": "Install verified Codex theme and skin packs with npx skills.",
+      "skills": [
+        "codex-skin-pack-installer"
+      ]
+    }
+  ]
+}

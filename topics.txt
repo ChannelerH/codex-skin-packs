@@ -5,13 +5,14 @@ codex-theme
 codex-skin
 codex-skins
 codex-skill
+agent-skills
+npx-skills
+skills-cli
+ai-agent-skills
 ai-coding
 ai-coding-tools
-ai-assistant-plugin
 openai-codex
 plugin-marketplace
-hol-plugin-scanner
-theme-gallery
 skin-pack
 theme-pack
 codex-dream-skin

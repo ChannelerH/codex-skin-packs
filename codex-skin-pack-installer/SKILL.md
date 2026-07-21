@@ -1,13 +1,21 @@
 ---
 name: codex-skin-pack-installer
-description: Install, stage, inspect, switch, remix, or restore verified public-safe Codex desktop skin packs from ChannelerH/codex-skin-packs. Use when a user asks to install a Codex skin/theme pack such as caishen-lite, mythic-guardian-noir, global-founder-bright, export-night, or wants Codex to download a skin pack, validate theme.json/background.png, avoid private screenshots, preserve native Codex layout, and explain the restore path.
+description: Install Codex themes and Codex skin packs with npx skills. Use this skill when a user wants Codex to find, download, validate, apply, switch, remix, or restore Codex desktop themes such as caishen-lite, mythic-guardian-noir, global-founder-bright, export-night, caishen-readable, or caishen-max. It stages verified public-safe theme packs from ChannelerH/codex-skin-packs, checks theme.json/background.png, preserves the native Codex layout, avoids private workspace screenshots, and provides restore guidance.
 ---
 
 # Codex Skin Pack Installer
 
-Install verified Codex skin packs without publishing private workspace screenshots or editing the signed app bundle.
+Install verified Codex theme and skin packs without publishing private workspace screenshots or editing the signed app bundle.
+
+This is a Skills.sh / `npx skills` installer for public-safe Codex desktop themes. It is meant for users searching for "Codex theme", "Codex skin", "install Codex theme", or "Codex Dream Skin packs" who want a real downloadable theme pack instead of a private screenshot.
 
 ## Quick Start
+
+Install this skill:
+
+```bash
+npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
+```
 
 Use the helper script to download and stage a pack:
 

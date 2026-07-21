@@ -1,7 +1,7 @@
 # Codex Skin Packs
 
-Verified public-safe Codex skin packs, packaged as a Codex plugin and a
-standalone Skill.
+Verified public-safe Codex theme and skin packs, packaged as a Codex plugin and
+a standalone Skills.sh / `npx skills` installer.
 
 Each pack includes:
 
@@ -38,6 +38,9 @@ Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v
 Safety checklist: [SAFETY.md](SAFETY.md)
 
 Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
+
+Skills.sh listing:
+https://www.skills.sh/channelerh/codex-skin-packs/codex-skin-pack-installer
 
 Install as a Codex Plugin:
 
