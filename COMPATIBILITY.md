@@ -44,7 +44,7 @@ https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 | Skills.sh / npx skills | Supported by `skills.sh.json` and `skills/codex-skin-pack-installer/SKILL.md`. |
 | Codex plugin marketplace workflow | Supported by `.agents/plugins/marketplace.json` and `plugins/codex-skin-pack-installer/`. |
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
-| `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. |
+| `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. Tracking discussion: [Wangnov/awesome-codex-skins#11](https://github.com/Wangnov/awesome-codex-skins/issues/11). |
 
 ## `.codexskin` Gap
 
@@ -71,6 +71,9 @@ conversion path is:
    failure: missing `previews/home.webp`.
 5. Repeat only for packs that remain readable in Home, Task, Diff, and Composer
    states.
+
+Tracking discussion with the `.codexskin` standard repository:
+https://github.com/Wangnov/awesome-codex-skins/issues/11
 
 ## Public-Safe Rule
 
