@@ -1,6 +1,7 @@
 # Codex Skin Packs
 
-Verified public-safe skin packs for Codex workspaces.
+Verified public-safe Codex skin packs, packaged as a Codex plugin and a
+standalone Skill.
 
 Each pack includes:
 
@@ -38,7 +39,20 @@ Safety checklist: [SAFETY.md](SAFETY.md)
 
 Agent install prompts: [INSTALL-WITH-CODEX.md](INSTALL-WITH-CODEX.md)
 
-Install as a Codex Skill:
+Install as a Codex Plugin:
+
+```bash
+codex plugin marketplace add ChannelerH/codex-skin-packs --ref main --sparse .agents/plugins --sparse plugins/codex-skin-pack-installer
+codex plugin add codex-skin-pack-installer@codex-skin-packs
+```
+
+Then ask Codex:
+
+```text
+Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+```
+
+Fallback: install as a standalone Codex Skill:
 
 ```bash
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo ChannelerH/codex-skin-packs --path codex-skin-pack-installer --name codex-skin-pack-installer

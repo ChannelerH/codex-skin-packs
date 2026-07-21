@@ -1,8 +1,22 @@
 # Install With Codex
 
-Use these prompts with Codex after downloading a skin pack from the release.
-They are written to keep the native app layout intact and preserve a restore
-path.
+Use the plugin path first. It gives Codex a repeatable installer Skill and keeps
+theme validation plus restore guidance in the same workflow.
+
+```bash
+codex plugin marketplace add ChannelerH/codex-skin-packs --ref main --sparse .agents/plugins --sparse plugins/codex-skin-pack-installer
+codex plugin add codex-skin-pack-installer@codex-skin-packs
+```
+
+Then ask Codex:
+
+```text
+Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+```
+
+The prompts below are useful after downloading a skin pack from the release or
+when the plugin is not available. They are written to keep the native app layout
+intact and preserve a restore path.
 
 Release downloads:
 https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
