@@ -52,10 +52,22 @@ Then ask Codex:
 Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
 ```
 
-Fallback: install as a standalone Codex Skill:
+Install with the standard Agent Skills CLI:
 
 ```bash
-python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo ChannelerH/codex-skin-packs --path codex-skin-pack-installer --name codex-skin-pack-installer
+npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
+```
+
+Then ask Codex:
+
+```text
+Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+```
+
+Legacy Codex Skill installer fallback:
+
+```bash
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo ChannelerH/codex-skin-packs --path skills/codex-skin-pack-installer --name codex-skin-pack-installer
 ```
 
 Then ask Codex:

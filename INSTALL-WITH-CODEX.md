@@ -14,6 +14,18 @@ Then ask Codex:
 Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
 ```
 
+If you already use the standard Agent Skills CLI, install the same Skill with:
+
+```bash
+npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
+```
+
+Then ask Codex:
+
+```text
+Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+```
+
 The prompts below are useful after downloading a skin pack from the release or
 when the plugin is not available. They are written to keep the native app layout
 intact and preserve a restore path.
