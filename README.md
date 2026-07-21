@@ -91,6 +91,8 @@ External listings:
 
 - [Mythic Guardian Noir](https://codexthemes.ai/skins/mythic-guardian-noir)
 - [Caishen Lite Codex Skin Pack](https://codexthemes.ai/themes/caishen-lite-codex-skin-pack)
+- [TIANQIAN1238/codex-skin-gallery](https://github.com/TIANQIAN1238/codex-skin-gallery) indexes all six packs as Dream Skin Pack entries.
+- [Caishen Readable review draft](https://github.com/lixiaobaivv/Codex-Skin-Store/pull/17) is open for Codex-Skin-Store review.
 
 ![Codex Skin Gallery](assets/og.jpg)
 
