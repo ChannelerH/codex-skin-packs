@@ -39,6 +39,7 @@ https://codex-theme-gallery.howardhua.chatgpt.site/launch-kit.md
 External listings:
 
 - [Mythic Guardian Noir](https://codexthemes.ai/skins/mythic-guardian-noir)
+- [Caishen Lite Codex Skin Pack](https://codexthemes.ai/themes/caishen-lite-codex-skin-pack)
 
 ![Codex Skin Gallery](assets/og.jpg)
 
