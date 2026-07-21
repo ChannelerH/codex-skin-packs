@@ -14,15 +14,23 @@ can judge readability before applying a pack. This repository does not include
 private Codex workspace screenshots, task lists, chats, sidebars, file paths, or
 project files.
 
-Website: https://codex-theme-gallery.howardhua.chatgpt.site
+Start here:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=skill-installer
 
-Theme index: https://codex-theme-gallery.howardhua.chatgpt.site/themes
+Website:
+https://codex-theme-gallery.howardhua.chatgpt.site?utm_source=github-readme&utm_medium=repo&utm_campaign=homepage
 
-Codex themes: https://codex-theme-gallery.howardhua.chatgpt.site/codex-themes
+Theme index:
+https://codex-theme-gallery.howardhua.chatgpt.site/themes?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-index
 
-Codex skins: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skins
+Codex themes:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-themes?utm_source=github-readme&utm_medium=repo&utm_campaign=search-pages
 
-Install guide: https://codex-theme-gallery.howardhua.chatgpt.site/install-codex-theme
+Codex skins:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-skins?utm_source=github-readme&utm_medium=repo&utm_campaign=search-pages
+
+Install guide:
+https://codex-theme-gallery.howardhua.chatgpt.site/install-codex-theme?utm_source=github-readme&utm_medium=repo&utm_campaign=install-guide
 
 Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
@@ -43,10 +51,10 @@ Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and t
 ```
 
 Machine-readable theme feed:
-https://codex-theme-gallery.howardhua.chatgpt.site/theme-feed.json
+https://codex-theme-gallery.howardhua.chatgpt.site/theme-feed.json?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-feed
 
 Launch / directory submission kit:
-https://codex-theme-gallery.howardhua.chatgpt.site/launch-kit.md
+https://codex-theme-gallery.howardhua.chatgpt.site/launch-kit.md?utm_source=github-readme&utm_medium=repo&utm_campaign=launch-kit
 
 External listings:
 
@@ -61,7 +69,7 @@ External listings:
 
 Dark mythic focus skin with a quiet left side for readable Codex panels.
 
-Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/mythic-guardian-noir
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/mythic-guardian-noir?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-page
 
 ![Mythic Guardian Noir](packs/mythic-guardian-noir/background.png)
 
@@ -69,7 +77,7 @@ Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/mythic-gua
 
 Bright overseas growth skin for shipping, analytics, and business work.
 
-Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/global-founder-bright
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/global-founder-bright?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-page
 
 ![Global Founder Bright](packs/global-founder-bright/background.png)
 
@@ -77,7 +85,7 @@ Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/global-fou
 
 Soft fortune skin that keeps the main working area calm and readable.
 
-Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-lite
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-lite?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-page
 
 ![Caishen Lite](packs/caishen-lite/background.png)
 
@@ -85,7 +93,7 @@ Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-li
 
 More fortune, more gold, more visual punch for short immersive sessions.
 
-Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-max
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-max?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-page
 
 ![Caishen Max](packs/caishen-max/background.png)
 
@@ -93,7 +101,7 @@ Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-ma
 
 Dark export-ops skin with charts, ports, and midnight commerce energy.
 
-Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/export-night
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/export-night?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-page
 
 ![Export Night](packs/export-night/background.png)
 
@@ -101,7 +109,7 @@ Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/export-nig
 
 Soft low-strain fortune skin.
 
-Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable
+Theme page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-page
 
 ![Caishen Readable](packs/caishen-readable/background.png)
 
