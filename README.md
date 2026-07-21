@@ -18,6 +18,12 @@ Website: https://codex-theme-gallery.howardhua.chatgpt.site
 
 Theme index: https://codex-theme-gallery.howardhua.chatgpt.site/themes
 
+Codex themes: https://codex-theme-gallery.howardhua.chatgpt.site/codex-themes
+
+Codex skins: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skins
+
+Install guide: https://codex-theme-gallery.howardhua.chatgpt.site/install-codex-theme
+
 Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
 Safety checklist: [SAFETY.md](SAFETY.md)
