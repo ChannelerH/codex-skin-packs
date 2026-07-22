@@ -157,6 +157,19 @@ If you use `codecnmc/codex-theme-inject`, start with the Caishen Readable pack:
 The Theme Inject package is under upstream review. Until it is merged, download
 the release zip above and keep `theme.json` and `background.png` together.
 
+## For ReTheme users
+
+If you are testing ReTheme source packages, start with the Caishen Readable
+source example:
+
+- Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=retheme-users
+- Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+- ReTheme PR: https://github.com/duxweb/ReTheme/pull/5
+
+The ReTheme contribution is a public-safe source example, not a signed
+community-theme package. Use it to inspect the scoped CSS, manifest, and assets
+before packaging your own theme.
+
 ## Packs
 
 ### Mythic Guardian Noir

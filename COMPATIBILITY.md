@@ -52,6 +52,16 @@ https://github.com/codecnmc/codex-theme-inject/pull/2
 Until that package is merged upstream, Theme Inject users should download the
 release zip and keep `theme.json` and `background.png` in the same folder.
 
+### ReTheme Source Packages
+
+`caishen-readable` is being reviewed as a public-safe ReTheme source example:
+
+https://github.com/duxweb/ReTheme/pull/5
+
+This is not a signed `.ctheme` package. It is a source-package example for
+users who want to inspect the manifest, scoped CSS, public artwork, and local
+validation workflow before building their own ReTheme theme.
+
 ## Directory Submission Status
 
 | Ecosystem | Current status |
@@ -60,6 +70,7 @@ release zip and keep `theme.json` and `background.png` in the same folder.
 | Codex plugin marketplace workflow | Supported by `.agents/plugins/marketplace.json` and `plugins/codex-skin-pack-installer/`. |
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
 | codecnmc/codex-theme-inject | `caishen-readable` package is under upstream review in [codecnmc/codex-theme-inject#2](https://github.com/codecnmc/codex-theme-inject/pull/2). |
+| duxweb/ReTheme | `caishen-readable` source example is under upstream review in [duxweb/ReTheme#5](https://github.com/duxweb/ReTheme/pull/5). |
 | `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. Tracking discussion: [Wangnov/awesome-codex-skins#11](https://github.com/Wangnov/awesome-codex-skins/issues/11). |
 
 ## `.codexskin` Gap
