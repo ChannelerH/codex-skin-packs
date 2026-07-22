@@ -114,6 +114,7 @@ External listings:
 - [Caishen Readable `.codexskin` submission prep](https://github.com/Wangnov/awesome-codex-skins/issues/11) is open with the `.codexskin` standard repository.
 - [Caishen Readable Codex Theme Gallery proposal](https://github.com/983033995/Codex-Theme-Gallery/issues/3) is open for package-intake guidance.
 - [Codex Skin Gallery awesome-list submission](https://github.com/mcpso/awesome-codex-themes/pull/3) is open for Awesome Codex Themes review.
+- [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 
 ![Codex Skin Gallery](assets/og.jpg)
 
