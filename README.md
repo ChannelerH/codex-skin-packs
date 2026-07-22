@@ -132,6 +132,7 @@ https://codex-theme-gallery.howardhua.chatgpt.site/launch-kit.md?utm_source=gith
 External listings:
 
 - [Show HN: Public-safe skin packs for the Codex desktop app](https://news.ycombinator.com/item?id=49002037)
+- [Codex Skin Pack Installer awesome-agent-skills submission](https://github.com/VoltAgent/awesome-agent-skills/pull/827) is open to add the installer Skill to a 28k+ star cross-agent skills directory.
 - [Caishen Readable HeiGe Codex Skin Studio preset submission](https://github.com/HeiGeAi/heige-codex-skin-studio/pull/18) is open to add the pack as a built-in one-click preset in a 300+ star Codex / ChatGPT desktop skin switcher.
 - [Caishen Readable Light native Codex App theme submission](https://github.com/shaw-baobao/codex-themes/pull/2) is open to add a low-friction `codex-theme-v1:` import path derived from the Caishen Readable palette.
 - [Caishen Readable Get Codex Theme submission](https://github.com/ViisOpen/get-codex-theme/pull/3) is open to add the pack as a validated free theme with responsive assets, HTML/CSS preview evidence, and `npx get-codex-theme` compatibility.
