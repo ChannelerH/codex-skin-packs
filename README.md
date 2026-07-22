@@ -120,6 +120,7 @@ https://codex-theme-gallery.howardhua.chatgpt.site/launch-kit.md?utm_source=gith
 
 External listings:
 
+- [Show HN: Public-safe skin packs for the Codex desktop app](https://news.ycombinator.com/item?id=49002037)
 - [Mythic Guardian Noir](https://codexthemes.ai/skins/mythic-guardian-noir)
 - [Caishen Lite Codex Skin Pack](https://codexthemes.ai/themes/caishen-lite-codex-skin-pack)
 - [TIANQIAN1238/codex-skin-gallery](https://github.com/TIANQIAN1238/codex-skin-gallery) indexes all six packs as Dream Skin Pack entries.
