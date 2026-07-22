@@ -117,6 +117,7 @@ External listings:
 - [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 - [Codex Skills Registry catalog submission](https://github.com/vadimcomanescu/codex-skills/pull/8) is open for an installable `npx codex-skills-registry` catalog.
 - [Caishen Readable AutoSkin theme submission](https://github.com/Finderchangchang/codex-autoskin/pull/3) is open to add the pack as a built-in AutoSkin theme for direct switching.
+- [Caishen Readable Codex Skin Skill package submission](https://github.com/aiwenjie777/codex-skin-skill/pull/4) is open to add the pack as a bundled data-only macOS skin package.
 - [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
