@@ -116,6 +116,7 @@ External listings:
 - [Codex Skin Gallery awesome-list submission](https://github.com/mcpso/awesome-codex-themes/pull/3) is open for Awesome Codex Themes review.
 - [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 - [Codex Skills Registry catalog submission](https://github.com/vadimcomanescu/codex-skills/pull/8) is open for an installable `npx codex-skills-registry` catalog.
+- [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
 
 ![Codex Skin Gallery](assets/og.jpg)
 
