@@ -170,6 +170,19 @@ The ReTheme contribution is a public-safe source example, not a signed
 community-theme package. Use it to inspect the scoped CSS, manifest, and assets
 before packaging your own theme.
 
+## For Codex Dream Skin users
+
+If you already use Codex Dream Skin, start with the Caishen Readable upstream
+preset proposal:
+
+- Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=dream-skin-users
+- Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+- Largest upstream PR: https://github.com/Fei-Away/Codex-Dream-Skin/pull/197
+- Alternate macOS preset PR: https://github.com/xnydl/codex-dream-skin/pull/5
+
+The upstream preset is under review for bundled macOS and Windows support. Until
+it is merged, download the release zip above or use the installer Skill path.
+
 ## Packs
 
 ### Mythic Guardian Noir

@@ -62,6 +62,20 @@ This is not a signed `.ctheme` package. It is a source-package example for
 users who want to inspect the manifest, scoped CSS, public artwork, and local
 validation workflow before building their own ReTheme theme.
 
+### Codex Dream Skin Presets
+
+`caishen-readable` is being reviewed as a bundled macOS and Windows preset in
+the largest Codex Dream Skin repository:
+
+https://github.com/Fei-Away/Codex-Dream-Skin/pull/197
+
+There is also an alternate macOS preset proposal:
+
+https://github.com/xnydl/codex-dream-skin/pull/5
+
+Until a preset is merged upstream, Dream Skin users should download the release
+zip or use the installer Skill to stage the same pack locally.
+
 ## Directory Submission Status
 
 | Ecosystem | Current status |
@@ -71,6 +85,7 @@ validation workflow before building their own ReTheme theme.
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
 | codecnmc/codex-theme-inject | `caishen-readable` package is under upstream review in [codecnmc/codex-theme-inject#2](https://github.com/codecnmc/codex-theme-inject/pull/2). |
 | duxweb/ReTheme | `caishen-readable` source example is under upstream review in [duxweb/ReTheme#5](https://github.com/duxweb/ReTheme/pull/5). |
+| Fei-Away/Codex-Dream-Skin | `caishen-readable` bundled preset is under upstream review in [Fei-Away/Codex-Dream-Skin#197](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197). |
 | `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. Tracking discussion: [Wangnov/awesome-codex-skins#11](https://github.com/Wangnov/awesome-codex-skins/issues/11). |
 
 ## `.codexskin` Gap
