@@ -30,6 +30,16 @@ npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --g
 Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
+Native Codex App theme path, no runtime skin:
+
+```text
+codex-theme-v1:{"codeThemeId":"absolutely","theme":{"accent":"#d96b42","contrast":60,"fonts":{"ui":"Avenir Next, SF Pro Text","code":"SF Mono"},"ink":"#35251c","opaqueWindows":true,"semanticColors":{"diffAdded":"#2f8f63","diffRemoved":"#c85a42","skill":"#b77b24"},"surface":"#fffdfa"},"variant":"light"}
+```
+
+This `Caishen Readable Light` import keeps Codex on the official App theme
+surface. It is under review here:
+https://github.com/shaw-baobao/codex-themes/pull/2
+
 Installer page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=skill-installer
 
