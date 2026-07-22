@@ -132,6 +132,7 @@ External listings:
 
 - [Show HN: Public-safe skin packs for the Codex desktop app](https://news.ycombinator.com/item?id=49002037)
 - [Caishen Readable Light native Codex App theme submission](https://github.com/shaw-baobao/codex-themes/pull/2) is open to add a low-friction `codex-theme-v1:` import path derived from the Caishen Readable palette.
+- [Caishen Readable Get Codex Theme submission](https://github.com/ViisOpen/get-codex-theme/pull/3) is open to add the pack as a validated free theme with responsive assets, HTML/CSS preview evidence, and `npx get-codex-theme` compatibility.
 - [Mythic Guardian Noir](https://codexthemes.ai/skins/mythic-guardian-noir)
 - [Caishen Lite Codex Skin Pack](https://codexthemes.ai/themes/caishen-lite-codex-skin-pack)
 - [TIANQIAN1238/codex-skin-gallery](https://github.com/TIANQIAN1238/codex-skin-gallery) indexes all six packs as Dream Skin Pack entries.
@@ -161,6 +162,18 @@ External listings:
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
 ![Codex Skin Gallery](assets/og.jpg)
+
+## For Get Codex Theme users
+
+If you use `get-codex-theme`, follow the Caishen Readable free-theme proposal:
+
+- Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=get-codex-theme-users
+- Get Codex Theme PR: https://github.com/ViisOpen/get-codex-theme/pull/3
+- Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+
+The submitted pack includes responsive backgrounds, HTML/CSS preview evidence,
+visual tokens, and an asset license. It has passed `get-codex-theme` strict
+theme validation.
 
 ## For Windows Theme Inject users
 
