@@ -75,26 +75,38 @@ def stage_pack(slug: str, output_dir: Path) -> Path:
 
     url = f"{RELEASE_BASE}/{slug}.zip"
     destination = output_dir.expanduser() / slug
-    if destination.exists():
-        shutil.rmtree(destination)
-    destination.mkdir(parents=True, exist_ok=True)
 
     with tempfile.TemporaryDirectory(prefix="codex-skin-pack-") as temp_dir:
-        zip_path = Path(temp_dir) / f"{slug}.zip"
+        temp_root = Path(temp_dir)
+        zip_path = temp_root / f"{slug}.zip"
+        staging = temp_root / "staged"
+        staging.mkdir()
         download(url, zip_path)
-        safe_extract(zip_path, destination)
+        safe_extract(zip_path, staging)
 
-    pack_root = locate_pack_root(destination)
-    validate_theme(pack_root)
+        pack_root = locate_pack_root(staging)
+        validate_theme(pack_root)
+
+        if destination.exists():
+            shutil.rmtree(destination)
+        destination.mkdir(parents=True, exist_ok=True)
+
+        if pack_root == staging:
+            final_pack_root = destination
+            for child in pack_root.iterdir():
+                shutil.move(str(child), final_pack_root / child.name)
+        else:
+            final_pack_root = destination / pack_root.name
+            shutil.move(str(pack_root), final_pack_root)
 
     manifest = {
         "slug": slug,
         "source": url,
         "stagedAt": dt.datetime.now(dt.timezone.utc).isoformat(),
-        "packRoot": str(pack_root),
+        "packRoot": str(final_pack_root),
     }
     (destination / "source.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
-    return pack_root
+    return final_pack_root
 
 
 def main() -> None:
