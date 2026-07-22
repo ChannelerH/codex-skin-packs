@@ -143,6 +143,7 @@ External listings:
 - [Caishen Readable `.codexskin` submission prep](https://github.com/Wangnov/awesome-codex-skins/issues/11) is open with the `.codexskin` standard repository.
 - [Caishen Readable Codex Theme Gallery proposal](https://github.com/983033995/Codex-Theme-Gallery/issues/3) is open for package-intake guidance.
 - [Codex Skin Gallery awesome-list submission](https://github.com/mcpso/awesome-codex-themes/pull/3) is open for Awesome Codex Themes review.
+- [ChannelerH Codex skin packs awesome-list submission](https://github.com/mcpso/awesome-codex-themes/pull/5) is open to add this repository to the Runtime CDP Skins section.
 - [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 - [Codex Skills Registry catalog submission](https://github.com/vadimcomanescu/codex-skills/pull/8) is open for an installable `npx codex-skills-registry` catalog.
 - [Caishen Readable AutoSkin theme submission](https://github.com/Finderchangchang/codex-autoskin/pull/3) is open to add the pack as a built-in AutoSkin theme for direct switching.
