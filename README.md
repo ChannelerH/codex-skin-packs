@@ -161,6 +161,7 @@ External listings:
 - [Caishen Readable bundled theme submission](https://github.com/houyuhang915-sudo/Codex-Skin-Manager/pull/1) is open to add the pack as a real schema 2 macOS/Windows bundled theme in a cross-platform Codex Skin Manager.
 - [Caishen Readable CodeSkin theme submission](https://github.com/lntomF/codexskin/issues/2) is open for Windows CodeSkin users as a public-safe wallpaper import candidate.
 - [Caishen Readable portable `.cds-theme.zip` submission](https://github.com/charmber/codex-skin/issues/1) is open for Codex Dream Skin users who want an importable package validated by the upstream theme-package script.
+- [Caishen Readable Codex Skin Lab catalog candidate](https://github.com/zhoufeiii/codex-skin-lab/issues/1) is open for a desktop theme-manager catalog listing; Codex Skin Lab currently requires mirrored `codexskinlab.com` asset URLs.
 - [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
@@ -236,6 +237,18 @@ The portable Codex Dream Skin package has been validated with:
 ```bash
 node macos/scripts/theme-package.mjs validate --archive caishen-readable.cds-theme.zip
 ```
+
+## For Codex Skin Lab users
+
+If you use Codex Skin Lab, follow the Caishen Readable catalog candidate:
+
+- Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-skin-lab-users
+- Portable `.cds-theme.zip`: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.cds-theme.zip
+- Catalog issue: https://github.com/zhoufeiii/codex-skin-lab/issues/1
+
+Codex Skin Lab's current catalog validator requires `codexskinlab.com` image,
+detail, and download URLs, so this is a catalog candidate until the maintainer
+mirrors the public-safe assets.
 
 ## Packs
 
