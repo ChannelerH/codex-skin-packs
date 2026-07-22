@@ -117,6 +117,7 @@ External listings:
 - [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 - [Codex Skills Registry catalog submission](https://github.com/vadimcomanescu/codex-skills/pull/8) is open for an installable `npx codex-skills-registry` catalog.
 - [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
+- [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
 ![Codex Skin Gallery](assets/og.jpg)
 
