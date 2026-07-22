@@ -154,6 +154,7 @@ External listings:
 - [Caishen Readable upstream Dream Skin preset](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) is open to add the pack as a bundled macOS/Windows preset in the largest Codex Dream Skin repository.
 - [Caishen Readable Theme Inject package](https://github.com/codecnmc/codex-theme-inject/pull/2) is open to add the pack as a downloadable Windows Theme Inject example theme.
 - [Caishen Readable codex-skin.dev submission](https://github.com/EricsXian/codex-skin/issues/1) is open for an independent Codex skin gallery listing with theme page, preview, package, and installer links.
+- Caishen Readable was submitted to CodexSkins.org for moderation as an installable public-safe package with the gallery page, preview image, and release zip.
 - [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
