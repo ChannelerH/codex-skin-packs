@@ -80,6 +80,7 @@ For directory maintainers:
 - Real release zips are available in [v0.1.0](https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0).
 - The installer is available through Skills.sh / `npx skills` and the Codex plugin workflow.
 - Public previews use sanitized Codex states, not private workspace screenshots.
+- Codex Dream Skin `.cds-theme.zip` compatibility is available for `caishen-readable`.
 - `.codexskin` compatibility is not claimed yet; the `caishen-readable` draft source and remaining preview gap are tracked in [COMPATIBILITY.md](COMPATIBILITY.md).
 
 Skills.sh listing:
@@ -159,6 +160,7 @@ External listings:
 - [Caishen Readable starter pack reference](https://github.com/wxqdoit/codex-dream-skin-marketplace/pull/1) is open for a Codex Dream Skin Marketplace plugin README path aimed at users who need a safe first pack before bringing their own media.
 - [Caishen Readable bundled theme submission](https://github.com/houyuhang915-sudo/Codex-Skin-Manager/pull/1) is open to add the pack as a real schema 2 macOS/Windows bundled theme in a cross-platform Codex Skin Manager.
 - [Caishen Readable CodeSkin theme submission](https://github.com/lntomF/codexskin/issues/2) is open for Windows CodeSkin users as a public-safe wallpaper import candidate.
+- [Caishen Readable portable `.cds-theme.zip` submission](https://github.com/charmber/codex-skin/issues/1) is open for Codex Dream Skin users who want an importable package validated by the upstream theme-package script.
 - [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
@@ -221,11 +223,19 @@ preset proposal:
 
 - Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=dream-skin-users
 - Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+- Portable `.cds-theme.zip`: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.cds-theme.zip
 - Largest upstream PR: https://github.com/Fei-Away/Codex-Dream-Skin/pull/197
 - Alternate macOS preset PR: https://github.com/xnydl/codex-dream-skin/pull/5
 
 The upstream preset is under review for bundled macOS and Windows support. Until
-it is merged, download the release zip above or use the installer Skill path.
+it is merged, import the portable `.cds-theme.zip`, download the release zip, or
+use the installer Skill path.
+
+The portable Codex Dream Skin package has been validated with:
+
+```bash
+node macos/scripts/theme-package.mjs validate --archive caishen-readable.cds-theme.zip
+```
 
 ## Packs
 

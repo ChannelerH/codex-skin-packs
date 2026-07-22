@@ -42,6 +42,23 @@ most readable Caishen variant and the one receiving the clearest usage signal:
 
 https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
 
+### Codex Dream Skin Portable Theme
+
+If you use a Codex Dream Skin build that supports portable theme imports, use
+the validated `.cds-theme.zip` package:
+
+https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.cds-theme.zip
+
+The package source lives in:
+
+[`compat/codex-dream-skin/caishen-readable-cds-theme`](compat/codex-dream-skin/caishen-readable-cds-theme)
+
+It has passed the upstream package validator from `charmber/codex-skin`:
+
+```bash
+node macos/scripts/theme-package.mjs validate --archive caishen-readable.cds-theme.zip
+```
+
 ### Windows Theme Inject
 
 `caishen-readable` is also being reviewed as a downloadable example package for
@@ -83,6 +100,7 @@ zip or use the installer Skill to stage the same pack locally.
 | Skills.sh / npx skills | Supported by `skills.sh.json` and `skills/codex-skin-pack-installer/SKILL.md`. |
 | Codex plugin marketplace workflow | Supported by `.agents/plugins/marketplace.json` and `plugins/codex-skin-pack-installer/`. |
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
+| charmber/codex-skin `.cds-theme.zip` | `caishen-readable` is available as a validator-passing portable theme package and submitted in [charmber/codex-skin#1](https://github.com/charmber/codex-skin/issues/1). |
 | codecnmc/codex-theme-inject | `caishen-readable` package is under upstream review in [codecnmc/codex-theme-inject#2](https://github.com/codecnmc/codex-theme-inject/pull/2). |
 | duxweb/ReTheme | `caishen-readable` source example is under upstream review in [duxweb/ReTheme#5](https://github.com/duxweb/ReTheme/pull/5). |
 | Fei-Away/Codex-Dream-Skin | `caishen-readable` bundled preset is under upstream review in [Fei-Away/Codex-Dream-Skin#197](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197). |

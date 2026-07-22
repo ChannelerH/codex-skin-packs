@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "caishen-readable",
+  "name": "Caishen Readable",
+  "paletteId": "caishen-readable-warm",
+  "paletteName": "Caishen Readable Warm",
+  "backgroundName": "Soft Caishen Workspace",
+  "layoutId": "stage",
+  "visualStyle": "soft-fortune-workspace",
+  "brandSubtitle": "VERIFIED CODEX SKIN PACK",
+  "tagline": "A calm fortune-themed Codex workspace that keeps panels readable.",
+  "projectPrefix": "Choose project",
+  "projectLabel": "Choose project",
+  "statusText": "READY",
+  "quote": "SHIP GOOD THINGS",
+  "image": "background.jpg",
+  "effects": {
+    "taskPanelOpacity": 0.78,
+    "taskPanelBlur": 16
+  },
+  "headerText": {
+    "title": "Caishen Readable",
+    "subtitle": "Soft fortune workspace",
+    "status": "Public-safe"
+  },
+  "layoutComponents": {
+    "retroHeader": false,
+    "toolbar": true,
+    "threePane": true,
+    "autoOpenSummary": true,
+    "companion": false,
+    "profileCard": false,
+    "homePet": false,
+    "minWidth": 1180,
+    "rightWidth": 320,
+    "windowTitle": "Caishen Readable",
+    "profileName": "Codex",
+    "profileStatus": "Ready",
+    "companionTitle": "Caishen",
+    "companionStatus": "Soft fortune mode"
+  },
+  "colors": {
+    "background": "#fff8ef",
+    "panel": "rgba(255, 250, 242, 0.92)",
+    "panelAlt": "rgba(255, 241, 222, 0.84)",
+    "accent": "#d96b42",
+    "accentAlt": "#e8b866",
+    "secondary": "#e8b866",
+    "highlight": "#2aa876",
+    "text": "#35251c",
+    "muted": "#7c6253",
+    "line": "rgba(217, 107, 66, 0.20)"
+  }
+}

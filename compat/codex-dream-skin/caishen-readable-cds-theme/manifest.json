@@ -1,0 +1,18 @@
+{
+  "format": "codex-dream-skin-theme",
+  "formatVersion": 1,
+  "id": "caishen-readable",
+  "name": "Caishen Readable",
+  "version": "1.0.0",
+  "author": "ChannelerH",
+  "description": "A public-safe, low-strain Caishen workspace for Codex Dream Skin users.",
+  "license": "MIT",
+  "homepage": "https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable",
+  "renderer": {
+    "apiVersion": 1,
+    "minEngineVersion": "1.10.0",
+    "layoutId": "stage"
+  },
+  "theme": "theme.json",
+  "preview": "background.jpg"
+}
