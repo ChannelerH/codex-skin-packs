@@ -11,7 +11,7 @@ codex plugin add codex-skin-pack-installer@codex-skin-packs
 Then ask Codex:
 
 ```text
-Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
 If you already use the standard Agent Skills CLI, install the same Skill with:
@@ -23,7 +23,7 @@ npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --g
 Then ask Codex:
 
 ```text
-Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
 The prompts below are useful after downloading a skin pack from the release or
@@ -32,6 +32,22 @@ intact and preserve a restore path.
 
 Release downloads:
 https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
+
+Recommended first pack:
+https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-install-doc&utm_medium=repo&utm_campaign=caishen-readable-primary
+
+Direct Caishen Readable zip:
+https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+
+## Windows Theme Inject
+
+If your workflow is based on `codecnmc/codex-theme-inject`, use the same
+Caishen Readable release zip while the upstream Theme Inject package is under
+review:
+
+https://github.com/codecnmc/codex-theme-inject/pull/2
+
+Keep `theme.json` and `background.png` together when importing the pack.
 
 ## Install A Pack
 

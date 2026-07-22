@@ -37,6 +37,21 @@ Download a zip from:
 
 https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
+The current recommended starter pack is `caishen-readable` because it is the
+most readable Caishen variant and the one receiving the clearest usage signal:
+
+https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+
+### Windows Theme Inject
+
+`caishen-readable` is also being reviewed as a downloadable example package for
+`codecnmc/codex-theme-inject`:
+
+https://github.com/codecnmc/codex-theme-inject/pull/2
+
+Until that package is merged upstream, Theme Inject users should download the
+release zip and keep `theme.json` and `background.png` in the same folder.
+
 ## Directory Submission Status
 
 | Ecosystem | Current status |
@@ -44,6 +59,7 @@ https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 | Skills.sh / npx skills | Supported by `skills.sh.json` and `skills/codex-skin-pack-installer/SKILL.md`. |
 | Codex plugin marketplace workflow | Supported by `.agents/plugins/marketplace.json` and `plugins/codex-skin-pack-installer/`. |
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
+| codecnmc/codex-theme-inject | `caishen-readable` package is under upstream review in [codecnmc/codex-theme-inject#2](https://github.com/codecnmc/codex-theme-inject/pull/2). |
 | `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. Tracking discussion: [Wangnov/awesome-codex-skins#11](https://github.com/Wangnov/awesome-codex-skins/issues/11). |
 
 ## `.codexskin` Gap

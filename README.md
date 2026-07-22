@@ -17,7 +17,20 @@ can judge readability before applying a pack. This repository does not include
 private Codex workspace screenshots, task lists, chats, sidebars, file paths, or
 project files.
 
-Start here:
+Start here if you want one pack that is already getting the most usage signal:
+https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=caishen-readable-primary
+
+Then install it with Codex:
+
+```bash
+npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
+```
+
+```text
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
+```
+
+Installer page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=skill-installer
 
 Codex Theme Skill page:
@@ -72,7 +85,7 @@ codex plugin add codex-skin-pack-installer@codex-skin-packs
 Then ask Codex:
 
 ```text
-Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
 Install with the standard Agent Skills CLI:
@@ -84,7 +97,7 @@ npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --g
 Then ask Codex:
 
 ```text
-Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
 Legacy Codex Skill installer fallback:
@@ -96,7 +109,7 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
 Then ask Codex:
 
 ```text
-Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
 Machine-readable theme feed:
@@ -132,6 +145,17 @@ External listings:
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
 ![Codex Skin Gallery](assets/og.jpg)
+
+## For Windows Theme Inject users
+
+If you use `codecnmc/codex-theme-inject`, start with the Caishen Readable pack:
+
+- Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=theme-inject-users
+- Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
+- Theme Inject PR: https://github.com/codecnmc/codex-theme-inject/pull/2
+
+The Theme Inject package is under upstream review. Until it is merged, download
+the release zip above and keep `theme.json` and `background.png` together.
 
 ## Packs
 
