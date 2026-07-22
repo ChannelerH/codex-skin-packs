@@ -120,6 +120,7 @@ External listings:
 - [Caishen Readable Codex Skin Skill package submission](https://github.com/aiwenjie777/codex-skin-skill/pull/4) is open to add the pack as a bundled data-only macOS skin package.
 - [Caishen Readable Codex Skin Manager preset submission](https://github.com/ZhjGo/codex-skin-manager/pull/2) is open to add the pack as a bundled manager preset with cleanup markers.
 - [Caishen Readable public-safe starter recipe](https://github.com/kongxcer555/codex-skin-builder/pull/1) is open to add a reproducible starter recipe to a Codex skin-builder Skill.
+- [Caishen Readable Codex Skin Switcher theme submission](https://github.com/bytefer/codex-skin-switcher/pull/1) is open to add the pack as a built-in macOS/Windows switcher theme.
 - [Codex Skills Library submission](https://github.com/proflead/codex-skills-library/pull/9) is open for another Codex-focused skill discovery surface.
 - [Terminal Skills catalog submission](https://github.com/TerminalSkills/skills/pull/532) is open with a skill plus a problem-first use case for safe Codex desktop skin installs.
 
