@@ -18,7 +18,7 @@ python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-readable
 - Live install page: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
 - Caishen Readable preview: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
 - Standard zip: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.zip
-- DreamSkin Studio import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.dreamskin
+- DreamSkin Studio import: https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
 - Codex Dream Skin import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.cds-theme.zip
 - CodeDrobe import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
@@ -55,7 +55,7 @@ Tracked release downloads:
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme.txt
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme-v1
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.json
-- https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.dreamskin
+- https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
 - https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
 This `Caishen Readable Light` import keeps Codex on the official App theme

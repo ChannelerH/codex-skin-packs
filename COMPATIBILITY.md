@@ -53,6 +53,10 @@ Use the Studio-compatible `.dreamskin` package for `caishen-readable`:
 
 https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.dreamskin
 
+Tracked gallery download for external submissions:
+
+https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin
+
 The package contains only:
 
 - `manifest.json`
