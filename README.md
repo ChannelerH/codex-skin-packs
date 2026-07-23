@@ -161,6 +161,7 @@ For directory maintainers:
 
 - Real release zips are available in [v0.1.0](https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0).
 - The installer is available through Skills.sh / `npx skills` and the Codex plugin workflow.
+- The plugin is listed in [Awesome Codex Plugins](https://github.com/hashgraph-online/awesome-codex-plugins#development--workflow) and its generated marketplace entry references `codex-skin-pack-installer`.
 - Public previews use sanitized Codex states, not private workspace screenshots.
 - DreamSkin Studio `.dreamskin` compatibility is available for `caishen-readable`; package publishing to dreamskin.cc still requires an authenticated publisher and rights confirmation.
 - Codex Dream Skin `.cds-theme.zip` compatibility is available for `caishen-readable`.
@@ -237,6 +238,7 @@ External listings:
 - [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 - [Codex Skills Registry catalog submission](https://github.com/vadimcomanescu/codex-skills/pull/8) is open for an installable `npx codex-skills-registry` catalog.
 - [Caishen Readable AutoSkin built-in theme](https://github.com/Finderchangchang/codex-autoskin/tree/master/themes/caishen-readable) is merged into `Finderchangchang/codex-autoskin` for direct switching from the AutoSkin engine.
+- [Caishen Readable AutoSkin README index](https://github.com/Finderchangchang/codex-autoskin/pull/5) is merged, so AutoSkin's built-in theme table now links the source pack.
 - [Caishen Readable Codex Skin Skill package submission](https://github.com/aiwenjie777/codex-skin-skill/pull/4) is open to add the pack as a bundled data-only macOS skin package.
 - [Caishen Readable Codex Skin Manager preset submission](https://github.com/ZhjGo/codex-skin-manager/pull/2) is open to add the pack as a bundled manager preset with cleanup markers.
 - [Caishen Readable public-safe starter recipe](https://github.com/kongxcer555/codex-skin-builder/pull/1) is open to add a reproducible starter recipe to a Codex skin-builder Skill.
