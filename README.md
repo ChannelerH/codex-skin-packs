@@ -10,9 +10,17 @@ a standalone Skills.sh / `npx skills` installer.
 Use the readable Caishen pack first. It has the clearest install path and the
 most current usage signal.
 
+Install the Skill:
+
 ```bash
 npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
-python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-readable
+```
+
+Then ask Codex:
+
+```text
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack.
+Download and inspect the pack first, preserve the native Codex layout, verify readability, and tell me the restore path.
 ```
 
 - Live install page: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
@@ -38,6 +46,9 @@ The gallery shows sanitized Codex Home, Task, Diff, and Composer states so you
 can judge readability before applying a pack. This repository does not include
 private Codex workspace screenshots, task lists, chats, sidebars, file paths, or
 project files.
+
+<details>
+<summary>Native imports, compatibility links, and long-tail pages</summary>
 
 Native Codex App theme path, no runtime skin:
 
@@ -143,6 +154,8 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-dream-skin-alternatives
 
 GitHub alternatives guide:
 [docs/codex-dream-skin-alternatives.md](docs/codex-dream-skin-alternatives.md)
+
+</details>
 
 For directory maintainers:
 
