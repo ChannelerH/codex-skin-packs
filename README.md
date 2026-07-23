@@ -47,6 +47,7 @@ Tracked release downloads:
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme.txt
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme-v1
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.json
+- https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.codedrobe-theme
 
 This `Caishen Readable Light` import keeps Codex on the official App theme
 surface. It is under review here:
@@ -138,6 +139,7 @@ For directory maintainers:
 - The installer is available through Skills.sh / `npx skills` and the Codex plugin workflow.
 - Public previews use sanitized Codex states, not private workspace screenshots.
 - Codex Dream Skin `.cds-theme.zip` compatibility is available for `caishen-readable`.
+- CodeDrobe `.codedrobe-theme` compatibility is available for `caishen-readable` after upstream requested theme-market submission.
 - `.codexskin` compatibility is not claimed yet; the `caishen-readable` draft source and remaining preview gap are tracked in [COMPATIBILITY.md](COMPATIBILITY.md).
 
 Skills.sh listing:
