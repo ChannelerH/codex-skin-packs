@@ -46,6 +46,12 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm
 Codex Theme Skill page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-skill?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-theme-skill
 
+Codex Skin Builder page:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-builder?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-skin-builder
+
+Codex Skin Maker page:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-maker?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-skin-maker
+
 Website:
 https://codex-theme-gallery.howardhua.chatgpt.site?utm_source=github-readme&utm_medium=repo&utm_campaign=homepage
 
