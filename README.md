@@ -18,6 +18,7 @@ python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-readable
 - Live install page: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
 - Caishen Readable preview: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
 - Standard zip: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.zip
+- DreamSkin Studio import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.dreamskin
 - Codex Dream Skin import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.cds-theme.zip
 - CodeDrobe import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
@@ -54,6 +55,7 @@ Tracked release downloads:
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme.txt
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme-v1
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.json
+- https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.dreamskin
 - https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
 This `Caishen Readable Light` import keeps Codex on the official App theme
@@ -145,6 +147,7 @@ For directory maintainers:
 - Real release zips are available in [v0.1.0](https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0).
 - The installer is available through Skills.sh / `npx skills` and the Codex plugin workflow.
 - Public previews use sanitized Codex states, not private workspace screenshots.
+- DreamSkin Studio `.dreamskin` compatibility is available for `caishen-readable`; package publishing to dreamskin.cc still requires an authenticated publisher and rights confirmation.
 - Codex Dream Skin `.cds-theme.zip` compatibility is available for `caishen-readable`.
 - CodeDrobe `.codedrobe-theme` compatibility is available for `caishen-readable` after upstream requested theme-market submission.
 - `.codexskin` compatibility is not claimed yet; the `caishen-readable` draft source and remaining preview gap are tracked in [COMPATIBILITY.md](COMPATIBILITY.md).
@@ -228,7 +231,7 @@ External listings:
 - [Caishen Readable CodeDrobe source theme example](https://github.com/CodeDrobe/skills/pull/3) is open to add the pack as a copyable, packable Codex theme example for the CodeDrobe Skill.
 - [Caishen Readable ReTheme source example](https://github.com/duxweb/ReTheme/pull/5) is open to add the pack as a validator-passing ReTheme source package example for ChatGPT/Codex desktop theming.
 - [Caishen Readable public-safe starter pack reference](https://github.com/moonlin1213/codex-dream-skin-studio-skill/pull/4) is open to add the pack as a no-private-screenshot starter reference for a Dream Skin Studio Skill.
-- [Caishen Readable upstream Dream Skin preset](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) is open and mergeable to add the pack as a bundled macOS/Windows preset in the largest Codex Dream Skin repository.
+- [Caishen Readable upstream Dream Skin preset](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) was closed after maintainers moved community intake to DreamSkin Studio; use the `.dreamskin` package for the new import path and publish only after authenticated rights confirmation.
 - [Caishen Readable Theme Inject package](https://github.com/codecnmc/codex-theme-inject/pull/2) was closed by the maintainer as incompatible; keep using the release ZIP or installer Skill path instead of the Theme Inject package path.
 - [Caishen Readable codex-skin.dev submission](https://github.com/EricsXian/codex-skin/issues/1) is open for an independent Codex skin gallery listing with theme page, preview, package, and installer links.
 - Caishen Readable was submitted to CodexSkins.org for moderation as an installable public-safe package with the gallery page, preview image, and release zip.

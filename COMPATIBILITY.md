@@ -42,6 +42,27 @@ most readable Caishen variant and the one receiving the clearest usage signal:
 
 https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
 
+### DreamSkin Studio Import
+
+The current upstream community intake path for Codex Dream Skin is DreamSkin
+Studio:
+
+https://www.dreamskin.cc/studio
+
+Use the Studio-compatible `.dreamskin` package for `caishen-readable`:
+
+https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.dreamskin
+
+The package contains only:
+
+- `manifest.json`
+- `theme.json`
+- `background.jpg`
+
+It is importable for local preview. Publishing to the DreamSkin community
+library still requires an authenticated publisher and rights confirmation, so
+this repository does not claim gallery acceptance until that flow is completed.
+
 ### Codex Dream Skin Portable Theme
 
 If you use a Codex Dream Skin build that supports portable theme imports, use
@@ -100,10 +121,11 @@ zip or use the installer Skill to stage the same pack locally.
 | Skills.sh / npx skills | Supported by `skills.sh.json` and `skills/codex-skin-pack-installer/SKILL.md`. |
 | Codex plugin marketplace workflow | Supported by `.agents/plugins/marketplace.json` and `plugins/codex-skin-pack-installer/`. |
 | CodexThemes | Individual public-safe skin entries can link to the gallery and release packs. |
+| DreamSkin Studio `.dreamskin` | `caishen-readable` is available as a Studio-compatible import package. Publishing to dreamskin.cc requires authenticated rights confirmation after local preview. |
 | charmber/codex-skin `.cds-theme.zip` | `caishen-readable` is available as a validator-passing portable theme package and submitted in [charmber/codex-skin#1](https://github.com/charmber/codex-skin/issues/1). |
 | codecnmc/codex-theme-inject | `caishen-readable` package is under upstream review in [codecnmc/codex-theme-inject#2](https://github.com/codecnmc/codex-theme-inject/pull/2). |
 | duxweb/ReTheme | `caishen-readable` source example is under upstream review in [duxweb/ReTheme#5](https://github.com/duxweb/ReTheme/pull/5). |
-| Fei-Away/Codex-Dream-Skin | `caishen-readable` bundled preset is under upstream review in [Fei-Away/Codex-Dream-Skin#197](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197). |
+| Fei-Away/Codex-Dream-Skin | [Fei-Away/Codex-Dream-Skin#197](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) was closed after maintainers asked community themes to use DreamSkin Studio intake instead of repo PRs. |
 | `.codexskin` registries | Draft source exists for `caishen-readable`; not claimed as registry-ready until a real public-safe Codex preview is captured. Tracking discussion: [Wangnov/awesome-codex-skins#11](https://github.com/Wangnov/awesome-codex-skins/issues/11). |
 
 ## `.codexskin` Gap
