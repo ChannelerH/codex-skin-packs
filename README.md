@@ -171,6 +171,13 @@ For directory maintainers:
 Skills.sh listing:
 https://www.skills.sh/channelerh/codex-skin-packs/codex-skin-pack-installer
 
+Install from the Awesome Codex Plugins marketplace:
+
+```bash
+codex plugin marketplace add https://github.com/hashgraph-online/awesome-codex-plugins.git --ref main --sparse .agents/plugins --sparse plugins
+codex plugin add codex-skin-pack-installer@awesome-codex-plugins
+```
+
 Install as a Codex Plugin:
 
 ```bash
