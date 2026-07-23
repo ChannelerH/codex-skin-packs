@@ -5,6 +5,26 @@
 Verified public-safe Codex theme and skin packs, packaged as a Codex plugin and
 a standalone Skills.sh / `npx skills` installer.
 
+## 30-second try path
+
+Use the readable Caishen pack first. It has the clearest install path and the
+most current usage signal.
+
+```bash
+npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
+python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-readable
+```
+
+- Live install page: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
+- Caishen Readable preview: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
+- Standard zip: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.zip
+- Codex Dream Skin import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.cds-theme.zip
+- CodeDrobe import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
+
+This is an independent, unofficial package set. It contains original artwork and
+theme files only, not private Codex screenshots, chats, task names, or file
+paths.
+
 Each pack includes:
 
 - `background.png`
@@ -16,19 +36,6 @@ The gallery shows sanitized Codex Home, Task, Diff, and Composer states so you
 can judge readability before applying a pack. This repository does not include
 private Codex workspace screenshots, task lists, chats, sidebars, file paths, or
 project files.
-
-Start here if you want one pack that is already getting the most usage signal:
-https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=caishen-readable-primary
-
-Then install it with Codex:
-
-```bash
-npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --global --agent codex --yes
-```
-
-```text
-Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
-```
 
 Native Codex App theme path, no runtime skin:
 
