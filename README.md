@@ -18,7 +18,8 @@ python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-readable
 - Live install page: https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-pack-installer?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
 - Caishen Readable preview: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=quick-start
 - Standard zip: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.zip
-- DreamSkin Studio import: https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
+- DreamSkin Studio import guide: https://codex-theme-gallery.howardhua.chatgpt.site/dreamskin-studio?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
+- DreamSkin Studio tracked package: https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
 - Codex Dream Skin import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.cds-theme.zip
 - CodeDrobe import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
@@ -55,6 +56,7 @@ Tracked release downloads:
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme.txt
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme-v1
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.json
+- https://codex-theme-gallery.howardhua.chatgpt.site/dreamskin-studio?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
 - https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
 - https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
@@ -340,18 +342,22 @@ before packaging your own theme.
 
 ## For Codex Dream Skin users
 
-If you already use Codex Dream Skin, start with the Caishen Readable upstream
-preset proposal:
+If you already use Codex Dream Skin or DreamSkin Studio, start with the
+Caishen Readable import fixture:
 
 - Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=dream-skin-users
+- DreamSkin Studio import guide: https://codex-theme-gallery.howardhua.chatgpt.site/dreamskin-studio?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-users
+- DreamSkin Studio tracked package: https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-users
 - Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
 - Portable `.cds-theme.zip`: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.cds-theme.zip
-- Largest upstream PR: https://github.com/Fei-Away/Codex-Dream-Skin/pull/197
+- Upstream package-format issue: https://github.com/Fei-Away/Codex-Dream-Skin/issues/108
+- Closed upstream preset PR: https://github.com/Fei-Away/Codex-Dream-Skin/pull/197
 - Alternate macOS preset PR: https://github.com/xnydl/codex-dream-skin/pull/5
 
-The upstream preset is under review for bundled macOS and Windows support. Until
-it is merged, import the portable `.cds-theme.zip`, download the release zip, or
-use the installer Skill path.
+The large upstream project now points community intake toward DreamSkin Studio
+instead of preset PRs. The `.dreamskin` fixture contains `manifest.json`,
+`theme.json`, and `background.jpg` only; it is useful for local Studio preview
+and for format discussion, not a claim of gallery acceptance.
 
 The portable Codex Dream Skin package has been validated with:
 

@@ -51,6 +51,8 @@ https://www.dreamskin.cc/studio
 
 Use the Studio-compatible `.dreamskin` package for `caishen-readable`:
 
+https://codex-theme-gallery.howardhua.chatgpt.site/dreamskin-studio?utm_source=github-compatibility&utm_medium=repo&utm_campaign=dreamskin-studio-import
+
 https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.dreamskin
 
 Tracked gallery download for external submissions:
