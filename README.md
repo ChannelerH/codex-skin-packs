@@ -221,7 +221,7 @@ External listings:
 - [ChannelerH Codex skin packs awesome-list submission](https://github.com/mcpso/awesome-codex-themes/pull/5) is open to add this repository to the Runtime CDP Skins section.
 - [Codex Skin Pack Installer catalog submission](https://github.com/jMerta/codex-skills/pull/9) is open for the Codex Skills catalog.
 - [Codex Skills Registry catalog submission](https://github.com/vadimcomanescu/codex-skills/pull/8) is open for an installable `npx codex-skills-registry` catalog.
-- [Caishen Readable AutoSkin theme submission](https://github.com/Finderchangchang/codex-autoskin/pull/3) is open to add the pack as a built-in AutoSkin theme for direct switching.
+- [Caishen Readable AutoSkin built-in theme](https://github.com/Finderchangchang/codex-autoskin/tree/master/themes/caishen-readable) is merged into `Finderchangchang/codex-autoskin` for direct switching from the AutoSkin engine.
 - [Caishen Readable Codex Skin Skill package submission](https://github.com/aiwenjie777/codex-skin-skill/pull/4) is open to add the pack as a bundled data-only macOS skin package.
 - [Caishen Readable Codex Skin Manager preset submission](https://github.com/ZhjGo/codex-skin-manager/pull/2) is open to add the pack as a bundled manager preset with cleanup markers.
 - [Caishen Readable public-safe starter recipe](https://github.com/kongxcer555/codex-skin-builder/pull/1) is open to add a reproducible starter recipe to a Codex skin-builder Skill.
@@ -256,6 +256,15 @@ If you use `get-codex-theme`, follow the Caishen Readable free-theme proposal:
 The submitted pack includes responsive backgrounds, HTML/CSS preview evidence,
 visual tokens, and an asset license. It has passed `get-codex-theme` strict
 theme validation.
+
+## For Codex AutoSkin users
+
+Caishen Readable is now merged into Codex AutoSkin as a built-in data-only
+theme:
+
+- Built-in theme: https://github.com/Finderchangchang/codex-autoskin/tree/master/themes/caishen-readable
+- Merged PR: https://github.com/Finderchangchang/codex-autoskin/pull/3
+- Source pack page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=autoskin-users
 
 ## For Windows Theme Inject users
 
