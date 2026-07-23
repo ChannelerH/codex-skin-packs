@@ -58,6 +58,9 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-studio?utm_source=
 Codex Skin Download page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-download?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-skin-download
 
+Codex Skin Generator page:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-generator?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-skin-generator
+
 Codex Theme Generator page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-generator?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-theme-generator
 
