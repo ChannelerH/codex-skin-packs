@@ -249,13 +249,28 @@ External listings:
 
 If you use `get-codex-theme`, follow the Caishen Readable free-theme proposal:
 
-- Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=get-codex-theme-users
+- Tester guide: https://codex-theme-gallery.howardhua.chatgpt.site/get-codex-theme?utm_source=github-readme&utm_medium=repo&utm_campaign=get-codex-theme-users
+- Source pack page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=get-codex-theme-users
 - Get Codex Theme PR: https://github.com/ViisOpen/get-codex-theme/pull/3
 - Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
 
 The submitted pack includes responsive backgrounds, HTML/CSS preview evidence,
 visual tokens, and an asset license. It has passed `get-codex-theme` strict
-theme validation.
+theme validation. The public `npx get-codex-theme install caishen-readable`
+path should be treated as pending until the upstream free-theme PR is merged.
+
+Current PR test path:
+
+```bash
+git clone https://github.com/ViisOpen/get-codex-theme.git
+cd get-codex-theme
+gh pr checkout 3
+npm install
+node packages/theme-cli/bin/get-codex-theme.mjs validate themes/free/caishen-readable --strict-assets
+node packages/theme-cli/bin/get-codex-theme.mjs install themes/free/caishen-readable
+node packages/theme-cli/bin/get-codex-theme.mjs apply caishen-readable
+node packages/theme-cli/bin/get-codex-theme.mjs status
+```
 
 ## For Codex AutoSkin users
 
