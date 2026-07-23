@@ -61,6 +61,9 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-generator?utm_sou
 Codex Appearance Settings page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-appearance-settings?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-appearance-settings
 
+Change Codex Theme page:
+https://codex-theme-gallery.howardhua.chatgpt.site/change-codex-theme?utm_source=github-readme&utm_medium=repo&utm_campaign=change-codex-theme
+
 Website:
 https://codex-theme-gallery.howardhua.chatgpt.site?utm_source=github-readme&utm_medium=repo&utm_campaign=homepage
 
