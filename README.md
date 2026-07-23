@@ -202,6 +202,7 @@ External listings:
 - [Codex Skin Pack Installer awesome-agent-skills submission](https://github.com/VoltAgent/awesome-agent-skills/pull/827) is open to add the installer Skill to a 28k+ star cross-agent skills directory.
 - [Caishen Readable HeiGe Codex Skin Studio preset submission](https://github.com/HeiGeAi/heige-codex-skin-studio/pull/18) is open to add the pack as a built-in one-click preset in a 300+ star Codex / ChatGPT desktop skin switcher.
 - [Caishen Readable Codex Styler built-in theme submission](https://github.com/xuhuanstudio/codex-styler/pull/34) is open to add the pack as a built-in theme in an open-source Codex theme editor and skin creator.
+- [Caishen Readable Codex Theme Creator preset submission](https://github.com/swording-k/codex-theme-creator/pull/3) is open to add the pack as a bundled Dream Skin preset in a desktop theme creator and manager.
 - [Caishen Readable Light native Codex App theme submission](https://github.com/shaw-baobao/codex-themes/pull/2) is open to add a low-friction `codex-theme-v1:` import path derived from the Caishen Readable palette.
 - [Caishen Readable Get Codex Theme submission](https://github.com/ViisOpen/get-codex-theme/pull/3) is open to add the pack as a validated free theme with responsive assets, HTML/CSS preview evidence, and `npx get-codex-theme` compatibility.
 - [Fortune Desk Caishen ACT theme candidate](https://github.com/rwang23/awesome-codex-theme/pull/3) is open to move the Caishen direction into the Awesome Codex Theme Manager review/generation flow after its Reddit launch traffic.
