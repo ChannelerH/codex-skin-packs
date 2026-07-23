@@ -264,7 +264,26 @@ theme:
 
 - Built-in theme: https://github.com/Finderchangchang/codex-autoskin/tree/master/themes/caishen-readable
 - Merged PR: https://github.com/Finderchangchang/codex-autoskin/pull/3
+- AutoSkin handoff page: https://codex-theme-gallery.howardhua.chatgpt.site/codex-autoskin?utm_source=github-readme&utm_medium=repo&utm_campaign=autoskin-users
 - Source pack page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=autoskin-users
+
+Mac:
+
+```bash
+git clone https://github.com/Finderchangchang/codex-autoskin.git
+cd codex-autoskin
+scripts/autoskin-macos.sh install
+scripts/autoskin-macos.sh theme caishen-readable fullscreen
+```
+
+Windows:
+
+```powershell
+git clone https://github.com/Finderchangchang/codex-autoskin.git
+cd codex-autoskin
+.\quickstart.ps1
+node scripts\set-theme.mjs caishen-readable fullscreen
+```
 
 ## For Windows Theme Inject users
 
