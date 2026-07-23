@@ -18,8 +18,8 @@ from pathlib import Path
 RELEASE_BASE = "https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0"
 
 PACKS = {
-    "caishen-lite": "Soft fortune skin with readable working areas.",
     "caishen-readable": "Lower-strain fortune skin.",
+    "caishen-lite": "Soft fortune skin with readable working areas.",
     "caishen-max": "Brighter fortune skin for short immersive sessions.",
     "global-founder-bright": "Bright international growth/workspace skin.",
     "export-night": "Dark export-ops skin.",

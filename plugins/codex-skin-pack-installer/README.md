@@ -10,7 +10,7 @@ codex plugin add codex-skin-pack-installer@codex-skin-packs
 Then ask Codex:
 
 ```text
-Use $codex-skin-pack-installer to install the caishen-lite Codex skin pack and tell me how to restore the default theme.
+Use $codex-skin-pack-installer to install the caishen-readable Codex skin pack and tell me how to restore the default theme.
 ```
 
 This plugin avoids private workspace screenshots, validates `theme.json` and

@@ -1,6 +1,6 @@
 ---
 name: codex-skin-pack-installer
-description: Install Codex themes and Codex skin packs with npx skills. Use this skill when a user wants Codex to find, download, validate, apply, switch, remix, or restore Codex desktop themes such as caishen-lite, mythic-guardian-noir, global-founder-bright, export-night, caishen-readable, or caishen-max. It stages verified public-safe theme packs from ChannelerH/codex-skin-packs, checks theme.json/background.png, preserves the native Codex layout, avoids private workspace screenshots, and provides restore guidance.
+description: Install Codex themes and Codex skin packs with npx skills. Use this skill when a user wants Codex to find, download, validate, apply, switch, remix, or restore Codex desktop themes such as caishen-readable, caishen-lite, mythic-guardian-noir, global-founder-bright, export-night, or caishen-max. It stages verified public-safe theme packs from ChannelerH/codex-skin-packs, checks theme.json/background.png, preserves the native Codex layout, avoids private workspace screenshots, and provides restore guidance.
 ---
 
 # Codex Skin Pack Installer
@@ -20,7 +20,7 @@ npx skills add ChannelerH/codex-skin-packs --skill codex-skin-pack-installer --g
 Use the helper script to download and stage a pack:
 
 ```bash
-python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-lite
+python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" caishen-readable
 ```
 
 The script downloads from the public GitHub release, validates the zip, extracts it to `~/.codexthemes/packs/<slug>` by default, and writes a source manifest.
@@ -42,8 +42,8 @@ python3 "$CODEX_SKILL_DIR/scripts/fetch_skin_pack.py" --list
 
 ## Pack Slugs
 
+- `caishen-readable` - lower-strain fortune skin and recommended first pack.
 - `caishen-lite` - soft fortune skin with readable working areas.
-- `caishen-readable` - lower-strain fortune skin.
 - `caishen-max` - brighter fortune skin for short immersive sessions.
 - `global-founder-bright` - bright international growth/workspace skin.
 - `export-night` - dark export-ops skin.
