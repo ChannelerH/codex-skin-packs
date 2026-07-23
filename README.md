@@ -36,6 +36,12 @@ Native Codex App theme path, no runtime skin:
 codex-theme-v1:{"codeThemeId":"absolutely","theme":{"accent":"#d96b42","contrast":60,"fonts":{"ui":"Avenir Next, SF Pro Text","code":"SF Mono"},"ink":"#35251c","opaqueWindows":true,"semanticColors":{"diffAdded":"#2f8f63","diffRemoved":"#c85a42","skill":"#b77b24"},"surface":"#fffdfa"},"variant":"light"}
 ```
 
+Paste-ready import file:
+[native-themes/caishen-readable-light.codex-theme.txt](native-themes/caishen-readable-light.codex-theme.txt)
+
+Raw theme JSON:
+[native-themes/caishen-readable-light.json](native-themes/caishen-readable-light.json)
+
 This `Caishen Readable Light` import keeps Codex on the official App theme
 surface. It is under review here:
 https://github.com/shaw-baobao/codex-themes/pull/2
