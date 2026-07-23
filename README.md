@@ -73,6 +73,9 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-switcher?utm_sourc
 Codex Theme Generator page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-generator?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-theme-generator
 
+Codex Theme Import page:
+https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-import?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-theme-import
+
 Codex Appearance Settings page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-appearance-settings?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-appearance-settings
 
