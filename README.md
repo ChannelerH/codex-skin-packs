@@ -28,6 +28,7 @@ Download and inspect the pack first, preserve the native Codex layout, verify re
 - Standard zip: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.zip
 - DreamSkin Studio import guide: https://codex-theme-gallery.howardhua.chatgpt.site/dreamskin-studio?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
 - DreamSkin Studio tracked package: https://codex-theme-gallery.howardhua.chatgpt.site/api/download/caishen-readable-dreamskin?utm_source=github-readme&utm_medium=repo&utm_campaign=dreamskin-studio-import
+- DreamSkin Package v1 JSON fixture: [compat/dreamskin-package-v1](compat/dreamskin-package-v1)
 - Codex Dream Skin import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.cds-theme.zip
 - CodeDrobe import: https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
@@ -164,6 +165,7 @@ For directory maintainers:
 - The plugin is listed in [Awesome Codex Plugins](https://github.com/hashgraph-online/awesome-codex-plugins#development--workflow) and its generated marketplace entry references `codex-skin-pack-installer`.
 - Public previews use sanitized Codex states, not private workspace screenshots.
 - DreamSkin Studio `.dreamskin` compatibility is available for `caishen-readable`; package publishing to dreamskin.cc still requires an authenticated publisher and rights confirmation.
+- Experimental DreamSkin Package v1 JSON-envelope fixture files are available in [compat/dreamskin-package-v1](compat/dreamskin-package-v1) for `Fei-Away/Codex-Dream-Skin#108` implementers.
 - Codex Dream Skin `.cds-theme.zip` compatibility is available for `caishen-readable`.
 - CodeDrobe `.codedrobe-theme` compatibility is available for `caishen-readable` after upstream requested theme-market submission.
 - `.codexskin` compatibility is not claimed yet; the `caishen-readable` draft source and remaining preview gap are tracked in [COMPATIBILITY.md](COMPATIBILITY.md).
