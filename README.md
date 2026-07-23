@@ -47,7 +47,7 @@ Tracked release downloads:
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme.txt
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme-v1
 - https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.json
-- https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.codedrobe-theme
+- https://codex-theme-gallery.howardhua.chatgpt.site/theme-packs/caishen-readable.codedrobe-theme
 
 This `Caishen Readable Light` import keeps Codex on the official App theme
 surface. It is under review here:
