@@ -14,3 +14,9 @@ JSON only when Codex asks for theme JSON.
 
 Gallery page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-import?utm_source=github-readme&utm_medium=repo&utm_campaign=native-theme-import
+
+Tracked release downloads:
+
+- https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme.txt
+- https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.codex-theme-v1
+- https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable-light.json
