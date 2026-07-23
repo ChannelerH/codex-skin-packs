@@ -213,7 +213,7 @@ External listings:
 - [Caishen Readable CodeDrobe source theme example](https://github.com/CodeDrobe/skills/pull/3) is open to add the pack as a copyable, packable Codex theme example for the CodeDrobe Skill.
 - [Caishen Readable ReTheme source example](https://github.com/duxweb/ReTheme/pull/5) is open to add the pack as a validator-passing ReTheme source package example for ChatGPT/Codex desktop theming.
 - [Caishen Readable public-safe starter pack reference](https://github.com/moonlin1213/codex-dream-skin-studio-skill/pull/4) is open to add the pack as a no-private-screenshot starter reference for a Dream Skin Studio Skill.
-- [Caishen Readable upstream Dream Skin preset](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) is open to add the pack as a bundled macOS/Windows preset in the largest Codex Dream Skin repository.
+- [Caishen Readable upstream Dream Skin preset](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) is open and mergeable to add the pack as a bundled macOS/Windows preset in the largest Codex Dream Skin repository.
 - [Caishen Readable Theme Inject package](https://github.com/codecnmc/codex-theme-inject/pull/2) was closed by the maintainer as incompatible; keep using the release ZIP or installer Skill path instead of the Theme Inject package path.
 - [Caishen Readable codex-skin.dev submission](https://github.com/EricsXian/codex-skin/issues/1) is open for an independent Codex skin gallery listing with theme page, preview, package, and installer links.
 - Caishen Readable was submitted to CodexSkins.org for moderation as an installable public-safe package with the gallery page, preview image, and release zip.
