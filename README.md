@@ -61,6 +61,9 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-download?utm_sourc
 Codex Skin Generator page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-skin-generator?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-skin-generator
 
+Install Codex Skin page:
+https://codex-theme-gallery.howardhua.chatgpt.site/install-codex-skin?utm_source=github-readme&utm_medium=repo&utm_campaign=install-codex-skin
+
 Codex Theme Generator page:
 https://codex-theme-gallery.howardhua.chatgpt.site/codex-theme-generator?utm_source=github-readme&utm_medium=repo&utm_campaign=codex-theme-generator
 
@@ -84,6 +87,9 @@ https://codex-theme-gallery.howardhua.chatgpt.site/codex-skins?utm_source=github
 
 Install guide:
 https://codex-theme-gallery.howardhua.chatgpt.site/install-codex-theme?utm_source=github-readme&utm_medium=repo&utm_campaign=install-guide
+
+Install Codex skin:
+https://codex-theme-gallery.howardhua.chatgpt.site/install-codex-skin?utm_source=github-readme&utm_medium=repo&utm_campaign=install-codex-skin
 
 Release downloads: https://github.com/ChannelerH/codex-skin-packs/releases/tag/v0.1.0
 
