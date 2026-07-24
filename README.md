@@ -5,6 +5,15 @@
 Verified public-safe Codex theme and skin packs, packaged as a Codex plugin and
 a standalone Skills.sh / `npx skills` installer.
 
+## External discovery paths
+
+These are public discovery paths, not endorsements or official OpenAI channels:
+
+- [Awesome AI Plugins](https://github.com/hashgraph-online/awesome-ai-plugins#development--workflow) lists `Codex Skin Pack Installer` and includes a marketplace JSON entry.
+- [Awesome Codex Plugins](https://github.com/hashgraph-online/awesome-codex-plugins#development--workflow) lists the same installer for Codex plugin users.
+- [DevBytes covered the installer](https://devbytes.co.in/news/for-codex-users-install-and-verify-skin-packs-with-ease) with `Caishen Readable` as the first pack to try.
+- GitHub topic pages such as [`openai-codex`](https://github.com/topics/openai-codex?o=desc&s=updated) and [`npx-skills`](https://github.com/topics/npx-skills) surface this repository for Codex/Skills discovery.
+
 ## 30-second try path
 
 Use the readable Caishen pack first. It has the clearest install path and the
