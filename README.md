@@ -12,6 +12,7 @@ These are public discovery paths, not endorsements or official OpenAI channels:
 - [Awesome AI Plugins](https://github.com/hashgraph-online/awesome-ai-plugins#development--workflow) lists `Codex Skin Pack Installer` and includes a marketplace JSON entry.
 - [Awesome Codex Plugins](https://github.com/hashgraph-online/awesome-codex-plugins#development--workflow) lists the same installer for Codex plugin users.
 - [Awesome Codex Plugins simple list](https://github.com/noahfraiture/awesome-codex-plugins#plugins) merged the same installer with a copyable Codex plugin command.
+- [ReTheme](https://github.com/duxweb/ReTheme/tree/main/docs/theme-example/caishen-readable) merged `Caishen Readable` as a validator-passing public source package example.
 - [DevBytes covered the installer](https://devbytes.co.in/news/for-codex-users-install-and-verify-skin-packs-with-ease) with `Caishen Readable` as the first pack to try.
 - GitHub topic pages such as [`openai-codex`](https://github.com/topics/openai-codex?o=desc&s=updated) and [`npx-skills`](https://github.com/topics/npx-skills) surface this repository for Codex/Skills discovery.
 
@@ -291,7 +292,7 @@ External listings:
 - [Caishen Readable Codex NN built-in theme submission](https://github.com/slovx2/Codex-NN/pull/4) is open to add the pack as a built-in theme in a visual Codex theme manager.
 - [Caishen Readable Codex Dream Skin preset submission](https://github.com/xnydl/codex-dream-skin/pull/5) is open to add the pack as a macOS bundled preset in a Dream Skin distribution.
 - [Caishen Readable CodeDrobe source theme example](https://github.com/CodeDrobe/skills/pull/3) is open to add the pack as a copyable, packable Codex theme example for the CodeDrobe Skill.
-- [Caishen Readable ReTheme source example](https://github.com/duxweb/ReTheme/pull/5) is open to add the pack as a validator-passing ReTheme source package example for ChatGPT/Codex desktop theming.
+- [Caishen Readable ReTheme source example](https://github.com/duxweb/ReTheme/tree/main/docs/theme-example/caishen-readable) is merged as a validator-passing ReTheme source package example for ChatGPT/Codex desktop theming after [PR #5](https://github.com/duxweb/ReTheme/pull/5).
 - [Caishen Readable public-safe starter pack reference](https://github.com/moonlin1213/codex-dream-skin-studio-skill/pull/4) is open to add the pack as a no-private-screenshot starter reference for a Dream Skin Studio Skill.
 - [Caishen Readable upstream Dream Skin preset](https://github.com/Fei-Away/Codex-Dream-Skin/pull/197) was closed after maintainers moved community intake to DreamSkin Studio; use the `.dreamskin` package for the new import path and publish only after authenticated rights confirmation.
 - [Caishen Readable Theme Inject package](https://github.com/codecnmc/codex-theme-inject/pull/2) was closed by the maintainer as incompatible; keep using the release ZIP or installer Skill path instead of the Theme Inject package path.
@@ -394,7 +395,8 @@ source example:
 
 - Gallery page: https://codex-theme-gallery.howardhua.chatgpt.site/themes/caishen-readable?utm_source=github-readme&utm_medium=repo&utm_campaign=retheme-users
 - Release zip: https://github.com/ChannelerH/codex-skin-packs/releases/download/v0.1.0/caishen-readable.zip
-- ReTheme PR: https://github.com/duxweb/ReTheme/pull/5
+- ReTheme source example: https://github.com/duxweb/ReTheme/tree/main/docs/theme-example/caishen-readable
+- Merged ReTheme PR: https://github.com/duxweb/ReTheme/pull/5
 
 The ReTheme contribution is a public-safe source example, not a signed
 community-theme package. Use it to inspect the scoped CSS, manifest, and assets
