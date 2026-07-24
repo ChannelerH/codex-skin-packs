@@ -14,6 +14,20 @@ These are public discovery paths, not endorsements or official OpenAI channels:
 - [DevBytes covered the installer](https://devbytes.co.in/news/for-codex-users-install-and-verify-skin-packs-with-ease) with `Caishen Readable` as the first pack to try.
 - GitHub topic pages such as [`openai-codex`](https://github.com/topics/openai-codex?o=desc&s=updated) and [`npx-skills`](https://github.com/topics/npx-skills) surface this repository for Codex/Skills discovery.
 
+## Official theme compatibility
+
+OpenAI now documents native Codex appearance controls for base theme,
+accent/background/foreground colors, UI fonts, code fonts, and shareable custom
+themes:
+
+- Codex app Appearance: https://developers.openai.com/codex/changelog#themes
+- Codex Settings source mirror: https://developers.openai.com/codex/llms-full.txt
+- Codex CLI `.tmTheme` support: https://developers.openai.com/codex/cli-customization#syntax-highlighting-and-themes
+
+Use the native Codex theme import when you only need colors and fonts. Use these
+skin packs when you want public-safe artwork, downloadable release assets,
+installer prompts, compatibility files, and explicit restore guidance.
+
 ## 30-second try path
 
 Use the readable Caishen pack first. It has the clearest install path and the
