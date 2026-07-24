@@ -23,6 +23,7 @@ themes:
 - Codex app Appearance: https://developers.openai.com/codex/changelog#themes
 - Codex Settings source mirror: https://developers.openai.com/codex/llms-full.txt
 - Codex CLI `.tmTheme` support: https://developers.openai.com/codex/cli-customization#syntax-highlighting-and-themes
+- Native-vs-skin guide: https://codex-theme-gallery.howardhua.chatgpt.site/official-codex-themes?utm_source=github-readme&utm_medium=repo&utm_campaign=official-codex-themes
 
 Use the native Codex theme import when you only need colors and fonts. Use these
 skin packs when you want public-safe artwork, downloadable release assets,
