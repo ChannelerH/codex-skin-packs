@@ -11,6 +11,7 @@ These are public discovery paths, not endorsements or official OpenAI channels:
 
 - [Awesome AI Plugins](https://github.com/hashgraph-online/awesome-ai-plugins#development--workflow) lists `Codex Skin Pack Installer` and includes a marketplace JSON entry.
 - [Awesome Codex Plugins](https://github.com/hashgraph-online/awesome-codex-plugins#development--workflow) lists the same installer for Codex plugin users.
+- [Awesome Codex Plugins simple list](https://github.com/noahfraiture/awesome-codex-plugins#plugins) merged the same installer with a copyable Codex plugin command.
 - [DevBytes covered the installer](https://devbytes.co.in/news/for-codex-users-install-and-verify-skin-packs-with-ease) with `Caishen Readable` as the first pack to try.
 - GitHub topic pages such as [`openai-codex`](https://github.com/topics/openai-codex?o=desc&s=updated) and [`npx-skills`](https://github.com/topics/npx-skills) surface this repository for Codex/Skills discovery.
 
@@ -188,6 +189,7 @@ For directory maintainers:
 - The installer is available through Skills.sh / `npx skills` and the Codex plugin workflow.
 - The plugin is listed in [Awesome Codex Plugins](https://github.com/hashgraph-online/awesome-codex-plugins#development--workflow) and its generated marketplace entry references `codex-skin-pack-installer`.
 - The plugin is also listed in [Awesome AI Plugins](https://github.com/hashgraph-online/awesome-ai-plugins#development--workflow), including the public marketplace JSON entry for cross-assistant plugin discovery.
+- The plugin is merged into the simpler [Awesome Codex Plugins list](https://github.com/noahfraiture/awesome-codex-plugins#plugins) as another source-visible Codex plugin discovery path.
 - Public previews use sanitized Codex states, not private workspace screenshots.
 - DreamSkin Studio `.dreamskin` compatibility is available for `caishen-readable`; package publishing to dreamskin.cc still requires an authenticated publisher and rights confirmation.
 - Experimental DreamSkin Package v1 JSON-envelope fixture files are available in [compat/dreamskin-package-v1](compat/dreamskin-package-v1) for `Fei-Away/Codex-Dream-Skin#108` implementers.
@@ -260,6 +262,7 @@ External listings:
 - [Show HN: Public-safe skin packs for the Codex desktop app](https://news.ycombinator.com/item?id=49002037)
 - [DevBytes: For Codex users: Install and verify skin packs with ease](https://devbytes.co.in/news/for-codex-users-install-and-verify-skin-packs-with-ease) covers the installer flow and recommends Caishen Readable as the first pack to try.
 - [Awesome AI Plugins marketplace listing](https://github.com/hashgraph-online/awesome-ai-plugins#development--workflow) includes `codex-skin-pack-installer` for broader agent/plugin discovery.
+- [Awesome Codex Plugins simple list](https://github.com/noahfraiture/awesome-codex-plugins#plugins) now includes `Codex Skin Pack Installer` after [PR #8](https://github.com/noahfraiture/awesome-codex-plugins/pull/8) merged.
 - [Codex Skin Pack Installer awesome-agent-skills submission](https://github.com/VoltAgent/awesome-agent-skills/pull/827) is open to add the installer Skill to a 28k+ star cross-agent skills directory.
 - [Caishen Readable HeiGe Codex Skin Studio preset submission](https://github.com/HeiGeAi/heige-codex-skin-studio/pull/18) is open to add the pack as a built-in one-click preset in a 300+ star Codex / ChatGPT desktop skin switcher.
 - [Caishen Readable Codex Styler built-in theme submission](https://github.com/xuhuanstudio/codex-styler/pull/34) is open to add the pack as a built-in theme in an open-source Codex theme editor and skin creator.
